@@ -1,4 +1,4 @@
-# howyoudoin
+# How You Doin?
 The main goal of this app is to improve the transparency of work flow of the company.
 For example CEO create own account and accounts of department heads. Department head 
 should every day open the app and constantly update what doing his department today. 
